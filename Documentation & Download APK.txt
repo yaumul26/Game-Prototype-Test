@@ -2,3 +2,5 @@ Game Prototype Test: proccesing total time to complete project is 24 hours. 8 ho
 
 APK Link Download :
 https://www.mediafire.com/file/dkxck81o8qc0s84/Game_Prototype.apk/file
+
+3rd party assets used : NavMeshComponents (for AI)
